@@ -1,2 +1,4 @@
-# springcloud-home
-关于spring cloud 仓库
+from = git-default-1.0
+from = git-dve-1.0
+from = git-test-1.0
+from = git-prod-1.0
